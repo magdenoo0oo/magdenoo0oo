@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm **Magdy Atef Zahran**, a Full-Stack Software Engineer based in **Cairo, Egypt 🇪🇬**, dedicated to building fast, scalable, and maintainable web applications from polished modern user interfaces to production-ready backend architectures.
+I'm **Magdy Atef Zahran**, a Full-Stack Software Engineer based in **Cairo, Egypt **, dedicated to building fast, scalable, and maintainable web applications from polished modern user interfaces to production-ready backend architectures.
 
 I specialize across the **JavaScript / TypeScript ecosystem**, with extensive experience in **Next.js, React, Node.js, NestJS, databases, real-time architectures, SaaS solutions, and automated deployment pipelines**.
 
