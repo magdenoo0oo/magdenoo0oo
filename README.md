@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/magdenoo0oo">
-  <img src="https://komarev.com/ghpvc/?username=magdenoo0oo&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=magdenoo0oo&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge&base=937" alt="Profile views" />
 </a>
 <a href="https://magdy-atef-zahran.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
