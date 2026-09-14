@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm **Magdy Atef Zahran**, a Full-Stack Software Engineer based in Cairo, dedicated to building fast, scalable, and maintainable web applications from polished modern user interfaces to production-ready backend architectures.
+I'm **Magdy Atef Zahran**, a Full-Stack Software Engineer based in **Cairo, Egypt 🇪🇬**, dedicated to building fast, scalable, and maintainable web applications from polished modern user interfaces to production-ready backend architectures.
 
 I specialize across the **JavaScript / TypeScript ecosystem**, with extensive experience in **Next.js, React, Node.js, NestJS, databases, real-time architectures, SaaS solutions, and automated deployment pipelines**.
 
@@ -140,16 +140,28 @@ An advanced career enablement ecosystem for AI-driven candidate evaluation, resu
 
 <br />
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Production Impact
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=magdenoo0oo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<p align="center">
+  <img src="https://img.shields.io/badge/COMMITS-3%2C850%2B-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-80%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/PRODUCTION%20DEPLOYS-120%2B-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
+  <br />
+  <img src="https://img.shields.io/badge/USERS%20SERVED-10%2C000%2B-F59E0B?style=for-the-badge&logo=users&logoColor=white" alt="Users" />
+  <img src="https://img.shields.io/badge/CODE%20EXPERIENCE-4%2C500%2B%20HRS-EC4899?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Hours" />
+  <img src="https://img.shields.io/badge/UPTIME%20%26%20QUALITY-99.9%25-06B6D4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Quality" />
+</p>
+
+<br />
+
+<img height="180" src="https://raw.githubusercontent.com/magdenoo0oo/magdenoo0oo/main/assets/github-stats.svg" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=magdenoo0oo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 
 <br /><br />
 
-<img width="68%" src="https://streak-stats.demolab.com?user=magdenoo0oo&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+<img width="68%" src="https://raw.githubusercontent.com/magdenoo0oo/magdenoo0oo/main/assets/streak-stats.svg" alt="GitHub streak" />
 
 </div>
 
